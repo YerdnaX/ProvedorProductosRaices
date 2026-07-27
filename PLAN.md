@@ -42,7 +42,7 @@ ProvedorProductos_Productos
 La tabla `Productos` del backend principal debe usar:
 
 ```txt
-Productos.IdProductoProvedorProductos
+Productos.IdProductoProvedor
 ```
 
 No asumir que `Productos.IdProducto` coincide con `IdProductoProvedor`.
